@@ -1,0 +1,46 @@
+ReactJS basics interview
+
+1. What is react js?Explain feature,pros and cons.
+2. What is React DOM?
+3. Difference between react and react dom. and difference virtual dom and real dom.
+4. What is react element and react compoennt?Difference
+5. What is the flow execution of a react application.
+6. What is hook? Why they use?Are they different from function?
+
+7. What render() method does.
+8. Explain react js life cyle methods.
+9. What is higher order component
+
+10. Explain life cyles methods working in functional components.
+11. Explain react state and effect hooks / you used in your application hook explain working of those? all known hooks
+12. Explain what are custom hooks?
+13. Difference between useMemo and useCallback
+14. Difference between useMemo and useEffect. Same useCallback and useEffect.
+
+15. Type of component? controlled and uncontrolled difference.
+16. Explain react error boundaries.
+
+css interview question.
+
+1. Explain css box model.
+2. Explain psuedo element and classes.
+
+html interview question
+
+1. Explain block and inline element
+2. Explain semantic tags.
+
+javascript interview question
+
+1. Explain new feature of javascript/ ES6
+2. Difference let and const
+3. Difference var, let and const
+4. Explain variable and function hoisting.
+5. What is closure ?
+6. What is iife?
+7. Explain promises?
+8. Difference async/await and try/catch? which is good?
+9. deep copy and shallow copy
+10. Expalin forEach map, filter, reduce methods
+11. What is Arrow function? difference function and arrow function.
+12. What is this keyword?
